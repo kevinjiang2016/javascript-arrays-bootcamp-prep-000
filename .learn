@@ -5,3 +5,5 @@ tags:
 languages:
   - javascript
 resources: 2
+
+var chocolateBars = "snickers", "hundred grand", "kitkat", and "skittles"
